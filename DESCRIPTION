@@ -5,9 +5,23 @@ Authors@R: person('Afton', 'Coombs', email = 'aftoncoombs@gmail.com', role = c('
 Description: This app emulates a stream deck.
 License: MIT + file LICENSE
 Imports: 
+    attempt,
     config (>= 0.3.1),
+    DT,
+    ggiraph,
+    glue,
     golem (>= 0.3.1),
+    htmltools,
+    magrittr,
+    processx,
     shiny (>= 1.6.0)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
+Depends: 
+    R (>= 2.10)
