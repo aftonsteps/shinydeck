@@ -1,0 +1,11 @@
+name: shinydeck
+title:
+username:
+account: aftonsteps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4826745
+bundleId: 5117153
+url: https://aftonsteps.shinyapps.io/shinydeck/
+when: 1633674634.08143
+lastSyncTime: 1633674634.08146
